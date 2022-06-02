@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       API
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -48,3 +48,27 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+
+document:
+  - title:      Tutorials
+    children:
+      title: Adding Auton Routines
+      url: /auton_routines
+      title: Example Auton
+      url: /example_auton
+      title: PID
+      url: /pid
+      title: Auton Selector
+      url: /auton_select
+      title: Joystick Curve
+      url: /js_curve
+      title: Brake
+      url: /brake
+      title: PTO
+  - title:  Docs
+    url:    /docs
+  - title:  Configuration
+    url:    /docs/_sample_page/1.1-single
+  - title:  Navigation
+    url:    /docs/en/navigation

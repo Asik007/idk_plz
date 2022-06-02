@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://asik007.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : /idk_plz # does not include hostname
-title   : Your Site Title
+title   : EZ-template
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Documentation for the EZ-template repository for VEX robotics using the PROS language and the V5 system.
 
 
 ## => Language and Timezone
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: asik007/idk_plz
 repository_tree: master
 
 
